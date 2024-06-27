@@ -11,4 +11,5 @@ Currently, the repository includes implementations of several fundamental RL alg
 * Double Deep Q-Network (DDQN)
 * Dueling Deep Q-Network (DDQN)
 * Soft Actor-Critic (SAC)
+
 Each algorithm is implemented with Python 3.7 and PyTorch 1.7.1.
