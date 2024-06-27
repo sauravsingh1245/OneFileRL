@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+gymnasium
+swig
+box2d-py
+gymnasium[box2d]
+notebook
